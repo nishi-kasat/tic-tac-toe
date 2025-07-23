@@ -9,4 +9,4 @@ A simple terminal-based Tic Tac Toe game in Python (or HTML/CSS/JS).
 
 ## Run
 ```bash
-python tictactoe.py
+python tic_tac_toe.py
